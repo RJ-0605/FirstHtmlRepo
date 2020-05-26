@@ -1,0 +1,49 @@
+/** two.css */
+
+
+
+header nav {
+    float: right; 
+}
+
+header nav li {
+    display: inline;
+    margin-right: 10px;
+      
+}
+
+
+#main {
+    border: solid 20px #ccc;
+    border-radius: 5px;
+    color: blue;
+    margin: 20px 0;
+    padding: 5px;
+}
+
+
+
+section {
+    padding: 1px;
+    background-color: rgb(238, 182, 144);
+
+}
+a { 
+    color: green;
+}
+
+footer {
+   padding: 10px;
+    border-top: lightpink;
+    border-radius: 50px;
+}
+
+header, footer {
+       background-color: lightgrey;
+       
+       
+       {
+
+
+
+
