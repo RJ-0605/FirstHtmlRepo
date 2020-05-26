@@ -1,0 +1,60 @@
+/* three.css */
+
+body {
+    font-family: Segoe UI, Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 14px ;
+
+}
+
+bordered-image {
+border: solid 10px #444;
+border-radius: 10px;
+}
+
+header, footer {
+        background-color: gray;  
+        border: solid 1px black;
+   /*     font-family: 'Times New Roman', serif; */
+        padding: 10px;
+        
+       }
+
+footer {
+    
+    padding: 10px ;
+    border-radius: 1000px ;
+
+}
+
+#main {
+    border: solid 1px #ccc ;
+    border-radius: 5px;
+    color: #202020;
+    margin: 20px 0;
+    padding: 130px;
+}
+
+.simple-form {
+padding: 2px;
+width: 300px;
+}
+.simple-form label { 
+    font-weight: bold  ;
+
+}
+
+.simple-form input [ type=text],
+.simple-form select,
+.simple-form input [ type=password ], 
+.simple-form textarea {
+    width: 150px;
+}
+
+.simple-form input [type=submit] {
+    background-color: green;  
+    color: white;
+    border-radius: 15px;
+    padding: 3px;
+    margin-top: 5px; }
+
+
